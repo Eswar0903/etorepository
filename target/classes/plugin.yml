@@ -1,0 +1,4 @@
+name: webappuber
+main: com.uber.webappuber.Plugin
+version: 8
+api-version: 1.15
